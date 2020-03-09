@@ -53,7 +53,6 @@ html, body {
     text-decoration: none;
     padding: 15px .5em;
     text-shadow: 2px 2px 3px #000;
-    /*font-size: 1.35em; */
 }
 .home-main-nav > ul > li:first-child{
     font-family: 'Cookie', cursive;

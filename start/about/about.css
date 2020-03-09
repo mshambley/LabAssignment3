@@ -55,3 +55,14 @@
     padding: 3em;
 
 }
+.top-inner-section {
+    overflow: auto;
+}
+.pic-container {
+    height: 100%;
+    float: left;
+    margin-right: 20px;
+}
+.bio-image {
+    width: 300px;
+}
