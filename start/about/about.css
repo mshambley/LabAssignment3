@@ -55,8 +55,8 @@
     padding: 3em;
 
 }
-.top-inner-section {
-    overflow: auto;
+.bottom-container {
+    padding-block-start: 570px;
 }
 .pic-container {
     height: 100%;
@@ -65,4 +65,5 @@
 }
 .bio-image {
     width: 300px;
+    height: 400px;
 }
